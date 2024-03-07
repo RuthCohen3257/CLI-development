@@ -1,0 +1,90 @@
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\bin\Debug\net6.0\CLI.exe
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\bin\Debug\net6.0\CLI.deps.json
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\bin\Debug\net6.0\CLI.runtimeconfig.json
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\bin\Debug\net6.0\CLI.dll
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\bin\Debug\net6.0\CLI.pdb
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\bin\Debug\net6.0\System.CommandLine.dll
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\obj\Debug\net6.0\CLI.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\obj\Debug\net6.0\CLI.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\obj\Debug\net6.0\CLI.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\obj\Debug\net6.0\CLI.AssemblyInfo.cs
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\obj\Debug\net6.0\CLI.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\obj\Debug\net6.0\CLI.csproj.CopyComplete
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\obj\Debug\net6.0\CLI.dll
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\obj\Debug\net6.0\refint\CLI.dll
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\obj\Debug\net6.0\CLI.pdb
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\obj\Debug\net6.0\CLI.genruntimeconfig.cache
+Y:\Groups\Group_3\כהן  רות\practicode\CLI\CLI\obj\Debug\net6.0\ref\CLI.dll
+G:\practicode\CLI\CLI\bin\Debug\net6.0\CLI.exe
+G:\practicode\CLI\CLI\bin\Debug\net6.0\CLI.deps.json
+G:\practicode\CLI\CLI\bin\Debug\net6.0\CLI.runtimeconfig.json
+G:\practicode\CLI\CLI\bin\Debug\net6.0\CLI.dll
+G:\practicode\CLI\CLI\bin\Debug\net6.0\CLI.pdb
+G:\practicode\CLI\CLI\bin\Debug\net6.0\System.CommandLine.dll
+G:\practicode\CLI\CLI\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+G:\practicode\CLI\CLI\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+G:\practicode\CLI\CLI\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+G:\practicode\CLI\CLI\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+G:\practicode\CLI\CLI\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+G:\practicode\CLI\CLI\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+G:\practicode\CLI\CLI\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+G:\practicode\CLI\CLI\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+G:\practicode\CLI\CLI\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+G:\practicode\CLI\CLI\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+G:\practicode\CLI\CLI\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+G:\practicode\CLI\CLI\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+G:\practicode\CLI\CLI\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+G:\practicode\CLI\CLI\obj\Debug\net6.0\CLI.csproj.AssemblyReference.cache
+G:\practicode\CLI\CLI\obj\Debug\net6.0\CLI.GeneratedMSBuildEditorConfig.editorconfig
+G:\practicode\CLI\CLI\obj\Debug\net6.0\CLI.AssemblyInfoInputs.cache
+G:\practicode\CLI\CLI\obj\Debug\net6.0\CLI.AssemblyInfo.cs
+G:\practicode\CLI\CLI\obj\Debug\net6.0\CLI.csproj.CoreCompileInputs.cache
+G:\practicode\CLI\CLI\obj\Debug\net6.0\CLI.csproj.CopyComplete
+G:\practicode\CLI\CLI\obj\Debug\net6.0\CLI.dll
+G:\practicode\CLI\CLI\obj\Debug\net6.0\refint\CLI.dll
+G:\practicode\CLI\CLI\obj\Debug\net6.0\CLI.pdb
+G:\practicode\CLI\CLI\obj\Debug\net6.0\CLI.genruntimeconfig.cache
+G:\practicode\CLI\CLI\obj\Debug\net6.0\ref\CLI.dll
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\bin\Debug\net6.0\CLI.exe
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\bin\Debug\net6.0\CLI.deps.json
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\bin\Debug\net6.0\CLI.runtimeconfig.json
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\bin\Debug\net6.0\CLI.dll
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\bin\Debug\net6.0\CLI.pdb
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\bin\Debug\net6.0\System.CommandLine.dll
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\obj\Debug\net6.0\CLI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\obj\Debug\net6.0\CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\obj\Debug\net6.0\CLI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\obj\Debug\net6.0\CLI.AssemblyInfo.cs
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\obj\Debug\net6.0\CLI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\obj\Debug\net6.0\CLI.csproj.CopyComplete
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\obj\Debug\net6.0\CLI.dll
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\obj\Debug\net6.0\refint\CLI.dll
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\obj\Debug\net6.0\CLI.pdb
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\obj\Debug\net6.0\CLI.genruntimeconfig.cache
+C:\Users\User\Desktop\רותי\שנה ב'\פרקטיקוד\CLI\CLI\obj\Debug\net6.0\ref\CLI.dll
